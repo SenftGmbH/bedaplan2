@@ -1,4 +1,5 @@
 <!-- Bedaplan2 Version 2.0.0 16.10.2014 https://github.com/SenftGmbH/ -->
+<html>
  <head>
   <title>bedaplan</title>
  </head>
